@@ -7,7 +7,7 @@
       <Pricing model="cpm" currency="USD">
         <![CDATA[ 25.00 ]]>
       </Pricing>
-      <AdTitle>Inline Simple Ad</AdTitle>
+      <AdTitle>1xbet</AdTitle>
       <AdVerifications></AdVerifications>
       <Advertiser>IAB Sample Company</Advertiser>
       <Category authority="http://www.iabtechlab.com/categoryauthority">AD CONTENT description category</Category>
@@ -26,18 +26,18 @@
             <Duration>00:00:16</Duration>
             <MediaFiles>
               <MediaFile id="5241" delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720" minBitrate="1500" maxBitrate="2500" scalable="1" maintainAspectRatio="1" codec="H.264">
-                <![CDATA[https://gdriveplay.com/video1.mp4]]>
+                <![CDATA[https://#]]>
               </MediaFile>
               <MediaFile id="5244" delivery="progressive" type="video/mp4" bitrate="1000" width="854" height="480" minBitrate="700" maxBitrate="1500" scalable="1" maintainAspectRatio="1" codec="H.264">
-                <![CDATA[https://gdriveplay.com/video1.mp4]]>
+                <![CDATA[https://#]]>
               </MediaFile>
               <MediaFile id="5246" delivery="progressive" type="video/mp4" bitrate="600" width="640" height="360" minBitrate="500" maxBitrate="700" scalable="1" maintainAspectRatio="1" codec="H.264">
-                <![CDATA[https://gdriveplay.com/video1.mp4]]>
+                <![CDATA[https://#]]>
               </MediaFile>
             </MediaFiles>
             <VideoClicks>
               <ClickThrough id="blog">
-                <![CDATA[https://gdriveplay.com]]>
+                <![CDATA[https://exilelink.com/india_apk]]>
               </ClickThrough>
             </VideoClicks>
           </Linear>
